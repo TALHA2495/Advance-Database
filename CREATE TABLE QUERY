@@ -1,0 +1,8 @@
+CREATE TABLE Students (
+  Student_id INT PRIMARY KEY,
+  S_name VARCHAR(50),
+  Roll_Number INT,
+  DEPARTMENT VARCHAR(20),
+  Email VARCHAR(50),
+  Grade INT
+);
