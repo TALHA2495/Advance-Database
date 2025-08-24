@@ -1,0 +1,8 @@
+INSERT INTO Students (Student_id, S_name, Roll_Number, DEPARTMENT, Email, Grade)
+VALUES (1, 'Awais', 2301, 'Computer Science', 'awais345@gmail.com', 85);
+
+INSERT INTO Students (Student_id, S_name, Roll_Number, DEPARTMENT, Email, Grade)
+VALUES (2, 'Hamza Gujjar', 2302, 'Mechanical', 'hamza555@gmail.com', 70);
+
+INSERT INTO Students (Student_id, S_name, Roll_Number, DEPARTMENT, Email, Grade)
+VALUES (3, 'Mozzam Babar', 2303, 'Biology', 'mozzam123@gmail.com', 95);
