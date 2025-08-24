@@ -1,0 +1,7 @@
+SELECT  Student_id, S_name, DEPARTMENT  FROM Students;
+SELECT S_name, Roll_Number, Email FROM Students WHERE DEPARTMENT = 'Computer Science';
+
+ALTER && RENAME
+
+ALTER TABLE Students ADD S_CNIC VARCHAR(13);
+ALTER TABLE Students RENAME TO CollegeStudents;
